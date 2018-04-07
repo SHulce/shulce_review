@@ -4,3 +4,5 @@ build/
 \.idea/
 
 \.gradle/
+
+~\$deReview_Template_DefectList\.doc
